@@ -52,9 +52,18 @@
 
 ## Детекция знаков
 ### Данные
-[Данные 1](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign ) [Данные 2](pytorch.org/vision/stable/generated/torchvision.datasets.GTSRB.html) [Данные 3](https://cg.cs.tsinghua.edu.cn/traffic-sign/) [Данные 4](https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format/data) [Данные 5](https://universe.roboflow.com/cchegeu/russian-signs/model/14)
+[Данные 1](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign )
+
+[Данные 2](pytorch.org/vision/stable/generated/torchvision.datasets.GTSRB.html) 
+
+[Данные 3](https://cg.cs.tsinghua.edu.cn/traffic-sign/)
+
+[Данные 4](https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format/data) 
+
+[Данные 5](https://universe.roboflow.com/cchegeu/russian-signs/model/14)
 ### Статьи
 [Статья 1](https://www.researchgate.net/publication/346250677_Automatic_Traffic_Sign_Recognition_Artificial_Inteligence_-_Deep_Learning_Algorithm)
+
 [Статья 2](https://link.springer.com/article/10.1007/s10639-022-11391-z)
 ### Видео
 
@@ -91,7 +100,8 @@
 Скопируйте файл [`contributing.md`](https://github.com/Svyatocheck/DeepLearningPractice/blob/master/contributing.md).
 
 ## Вывод
-Предлагаемая система видеонаблюдения создает комплексное решение для мониторинга и детекция дорожных знаков
+Предлагаемая система видеонаблюдения создает комплексное решение для мониторинга и детекция дорожных знаков.
+
 Благодаря алгоритмам нейронных сетей, эффективному управлению данными и возможностям немедленного оповещения, он обеспечивает надежный 
 инструмент для детекции знаков и может использоваться на реальных кейсах.
 

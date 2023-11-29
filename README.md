@@ -1,7 +1,7 @@
 # Детекция дорожных знаков на видеорегистраторе
 
 <p align="center" width="100%">
-    <img width="80%" src="images/znak.jpg">
+    <img width="80%" src="assets/znak.jpg">
 </p>
 
 <div align="center">
@@ -73,7 +73,7 @@
 ## Архитектура
 
 <p align="center" width="100%">
-    <img width="80%" src="images/architecture.png">
+    <img width="80%" src="assets/architecture.png">
 </p>
 
 ### Frontend

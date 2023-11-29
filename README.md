@@ -1,8 +1,7 @@
 # Детекция дорожных знаков на видеорегистраторе
 
-<p align="center" width="100%">
-    <img width="80%" src="assets/znak.jpg">
-</p>
+![Alt Text](assets/demonstration_gif.gif)
+
 
 <div align="center">
     
@@ -21,6 +20,12 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 [![Yolo](https://img.shields.io/badge/Yolo-%23EE4C2C.svg?style=for-the-badge&logo=Yolo&logoColor=white)](https://github.com/Vladimir-Dimitrov-Ngu)
 
+### Репозиторий:
+
+- assets - графические материалы для Readme файлика
+- data_experiments - ноутбуки с обработкой датасетов
+- model_experiments - ноутбуки с обучением моделек
+- model_weights - лучшие веса обученных моделек
 
 ## Контент
 - [Детекция дорожных знаков](#)
@@ -33,7 +38,7 @@
     - [Видео](#видео)
     - [Архитектура](#архитектура)
     - [Демо](#демонстрация)
-  - [Особенности и ограничения](#особенности-и-ограничения-системы)
+      - [Особенности и ограничения](#особенности-и-ограничения-системы)
   - [Future Roadmap](#future-roadmap)
   - [Contibution](#contributing)
   - [Вывод](#conclusion)
@@ -61,16 +66,16 @@
 [Данные 4](https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-dataset-in-yolo-format/data) 
 
 [Данные 5](https://universe.roboflow.com/cchegeu/russian-signs/model/14)
+
 ### Статьи
 [Статья 1](https://www.researchgate.net/publication/346250677_Automatic_Traffic_Sign_Recognition_Artificial_Inteligence_-_Deep_Learning_Algorithm)
 
 [Статья 2](https://link.springer.com/article/10.1007/s10639-022-11391-z)
-### Видео
 
+### Видео
 [Про разметку](https://www.youtube.com/watch?v=wjgnYyU6Ymc)
 
-
-## Архитектура
+### Архитектура
 
 <p align="center" width="100%">
     <img width="80%" src="assets/architecture.png">
@@ -78,12 +83,8 @@
 
 ### Frontend
 ![Alt text](assets/mvp_preview.png)
-### Демонстрация
 
-![Alt Text](assets/demonstration_gif.gif)
-
-
-## Особенности и ограничения системы
+#### Особенности и ограничения 
 - В текущей версии приложения ограничение по размеру видео составляет 200 МБ. Это важно учитывать при загрузке видеоматериалов.
 - **Загрузка файлов**: пользователи могут загружать видеофайлы в форматах, таких как mp4, mov, avi, asf, m4v и mpeg-4. Загрузка происходит способом drag and drop. Во время загрузки пользователь видит сообщение «Upload a video». После успешной загрузки пользователь видит сообщение «Upload successful!».
 - **Обработка видео**: приложение обрабатывает видео с использованием CV-модели. После завершения обработки пользователь видит соответствующий индикатор: «Extracting complete!».

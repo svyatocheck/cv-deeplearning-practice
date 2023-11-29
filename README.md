@@ -119,5 +119,7 @@
 
 ## Авторы
 - [Vladimir Dimitrov](https://github.com/Vladimir-Dimitrov-Ngu)
+- [Vladimir Kravtsov](https://github.com/VladimirKravtsov36)
 - [Dmitrii Klimenchenko](https://github.com/dimages)
+- [Svyatoslav Ivanov](https://github.com/Svyatocheck)
 

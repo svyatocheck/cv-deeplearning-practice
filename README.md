@@ -40,6 +40,7 @@
     - [Демо](#демонстрация)
       - [Особенности и ограничения](#особенности-и-ограничения-системы)
   - [Future Roadmap](#future-roadmap)
+  - [Сравнение моделей](#сравнение-моделей)
   - [Contibution](#contributing)
   - [Вывод](#conclusion)
   - [Авторы](#authors)
@@ -118,4 +119,5 @@
 
 ## Авторы
 - [Vladimir Dimitrov](https://github.com/Vladimir-Dimitrov-Ngu)
+- [Dmitrii Klimenchenko](https://github.com/dimages)
 
